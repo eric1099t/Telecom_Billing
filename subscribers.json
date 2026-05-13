@@ -1,0 +1,74 @@
+[
+    {
+        "name": "Harry",
+        "status": "ACTIVE",
+        "plan": "PREPAID",
+        "debt_limit": "0.0",
+        "phone_number": "0967897789",
+        "balance": 890233.33
+    },
+    {
+        "name": "Lucas",
+        "status": "DEACTIVE",
+        "plan": "PREPAID",
+        "debt_limit": "0",
+        "phone_number": "0967890123",
+        "balance": 69000.0
+    },
+    {
+        "name": "Big Boss",
+        "status": "ACTIVE",
+        "plan": "POSTPAID",
+        "debt_limit": "-500000.0",
+        "phone_number": "0912345678",
+        "balance": -5000.0
+    },
+    {
+        "name": "Hie",
+        "status": "ACTIVE",
+        "plan": "POSTPAID",
+        "debt_limit": "-7000.0",
+        "phone_number": "0349998787",
+        "balance": 99994000.0
+    },
+    {
+        "name": "John",
+        "status": "ACTIVE",
+        "plan": "PREPAID",
+        "debt_limit": "0",
+        "phone_number": "0988678345",
+        "balance": 0.0
+    },
+    {
+        "name": "Vip Member",
+        "status": "ACTIVE",
+        "plan": "PREPAID",
+        "debt_limit": "0",
+        "phone_number": "0888888888",
+        "balance": 500.5
+    },
+    {
+        "name": "Friend",
+        "status": "ACTIVE",
+        "plan": "PREPAID",
+        "debt_limit": "0.0",
+        "phone_number": "0988888888",
+        "balance": 9999999.0
+    },
+    {
+        "name": "Lisa",
+        "status": "ACTIVE",
+        "plan": "PREPAID",
+        "debt_limit": "0",
+        "phone_number": "0901234567",
+        "balance": 48000.0
+    },
+    {
+        "name": "Scammer",
+        "status": "SUSPENDED",
+        "plan": "PREPAID",
+        "debt_limit": "0",
+        "phone_number": "0999999999",
+        "balance": 999999.0
+    }
+]
