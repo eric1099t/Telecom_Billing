@@ -41,7 +41,7 @@ pip install fastapi uvicorn pydantic redis
 Running the server:
 
 ```bash
-pip install fastapi uvicorn pydantic redis
+python -m uvicorn main:app --reload
 ```
 
 ## 📡 API Endpoints
